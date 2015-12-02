@@ -1,0 +1,8 @@
+/Users/i043877/area51/GOP/openmp/runtime/build/runtime/src/CMakeFiles/libomp-test-deps.dir
+/Users/i043877/area51/GOP/openmp/runtime/build/runtime/src/CMakeFiles/libomp-micro-tests.dir
+/Users/i043877/area51/GOP/openmp/runtime/build/runtime/src/CMakeFiles/libomp-test-execstack.dir
+/Users/i043877/area51/GOP/openmp/runtime/build/runtime/src/CMakeFiles/libomp-test-relo.dir
+/Users/i043877/area51/GOP/openmp/runtime/build/runtime/src/CMakeFiles/libomp-test-touch.dir
+/Users/i043877/area51/GOP/openmp/runtime/build/runtime/src/CMakeFiles/libomp-test-instr.dir
+/Users/i043877/area51/GOP/openmp/runtime/build/runtime/src/CMakeFiles/libomp-needed-headers.dir
+/Users/i043877/area51/GOP/openmp/runtime/build/runtime/src/CMakeFiles/omp.dir
